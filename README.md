@@ -60,7 +60,7 @@ https://github.com/woneyy/competi_plantfriend
 
 
 <br><br>
-### Education
+## Education
 
 
 ##### 2021.03 - ing
@@ -80,7 +80,7 @@ Jeonbuk National University - BS in Animal Biotechnology (4.07/4.5)
 
 
 <br><br>
-### Extracurricular Activities
+## Extracurricular Activities
 
 
 
