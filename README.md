@@ -14,27 +14,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Woney
-### Personal Projects
-Realtime Vision Object Detection for ADAS &nbsp; <img src=https://img.shields.io/badge/python-blue> <img src=https://img.shields.io/badge/jacinto_mmdetection-white>
- 
-2021.05~
-- 차량 주행시 AHB제어를 위한 object detection model 개발 및 적용
-- RetinaNet 모델을 적용하여 object detection 모델 구축
-- 임베디드에 포팅하기 위한 모델 피팅 & 경량화
+### Woney
+geewon1117@gmail.com
+<br><br>
 
-Mini Projects with public datasets
+
+## Personal Projects
+#### Plant+Friend🌱<br>
+https://github.com/woneyy/competi_plantfriend
+- 화분과 AI 스피커를 합친 형태의 스마트 화분으로 식물의 생육 환경을 감지하고 필요한 양분을 제공하여 사용자에게 편의 제공
+- 기존의 AI 스피커에 식물의 생육 환경을 감지하고 자동으로 물을 주는 시스템을 추가한 형태
+
+#### Mini Projects with public datasets
 - CIFAR 10
 - MNIST handwriting
 - Iris
 - Automation of Hangeul program with Excel data
 - etc
 
+<br><br>
+## Professional Experiences
 
-### Professional Experiences
-##### 2016.06 – 2019.06 
-Jeonbuk National University Animal Molecular Genetic Breeding Laboratory
+#### Realtime Vision Object Detection for ADAS &nbsp; <img src=https://img.shields.io/badge/python-blue> <img src=https://img.shields.io/badge/jacinto_mmdetection-white>
+2021.05 – ing 
+- 양산형 차량에 탑재되는 AHB(Automatic High Beam) 제어 시스템 개발
+- 차량 주행 시 AHB 제어에 필요한 객체(차량, 이륜차량, 가로등) 검출 모델 개발
+- RetinaNet 모델을 적용하여 object detection 모델 구축
+- 임베디드에 포팅하기 위한 모델 경량화
 
+- “An Implementation of Automatic High Beam system based on Deep Learning Model”, Geewon Kim, Jiwan Seo, Juseock Shin, 2021.07, MITA
+
+#### Jeonbuk National University Animal Molecular Genetic Breeding Laboratory
+2016.06 – 2019.06<br><br>
 Bioinformatics 
 &nbsp; <img src=https://img.shields.io/badge/GATK-yellow> <img src=https://img.shields.io/badge/R-green> <img src=https://img.shields.io/badge/python-blue> <img src=https://img.shields.io/badge/shellscript-grey> 
   
@@ -48,11 +59,7 @@ Animal Breeding Data Analysis
 - 기존의 한우유전육종데이터를 기반으로 기관에서 요청받은 한우 개체의 육종가 (도체중, 등심단면적, 등지방두께, 근내지방도)의 빅데이터 분석 및 매뉴얼 작성
 
 
-
-
-
-
-
+<br><br>
 ### Education
 
 
@@ -72,7 +79,7 @@ Jeonbuk National University - BS in Animal Biotechnology (4.07/4.5)
 
 
 
-
+<br><br>
 ### Extracurricular Activities
 
 
