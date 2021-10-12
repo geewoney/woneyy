@@ -35,7 +35,7 @@ https://github.com/woneyy/competi_plantfriend
 <br><br>
 ## Professional Experiences
 
-#### Realtime Vision Object Detection for ADAS &nbsp; <img src=https://img.shields.io/badge/python-blue> <img src=https://img.shields.io/badge/jacinto_mmdetection-white>
+### Realtime Vision Object Detection for ADAS &nbsp; <img src=https://img.shields.io/badge/python-blue> <img src=https://img.shields.io/badge/jacinto_mmdetection-white>
 2021.05 – ing 
 - 양산형 차량에 탑재되는 AHB(Automatic High Beam) 제어 시스템 개발
 - 차량 주행 시 AHB 제어에 필요한 객체(차량, 이륜차량, 가로등) 검출 모델 개발
@@ -43,18 +43,18 @@ https://github.com/woneyy/competi_plantfriend
 - 임베디드에 포팅하기 위한 모델 경량화
 
 - “An Implementation of Automatic High Beam system based on Deep Learning Model”, Geewon Kim, Jiwan Seo, Juseock Shin, 2021.07, MITA
+<br>
 
-#### Jeonbuk National University Animal Molecular Genetic Breeding Laboratory
+### Jeonbuk National University Animal Molecular Genetic Breeding Laboratory
 2016.06 – 2019.06<br><br>
-Bioinformatics 
-&nbsp; <img src=https://img.shields.io/badge/GATK-yellow> <img src=https://img.shields.io/badge/R-green> <img src=https://img.shields.io/badge/python-blue> <img src=https://img.shields.io/badge/shellscript-grey> 
+
+#### Bioinformatics <img src=https://img.shields.io/badge/GATK-yellow> <img src=https://img.shields.io/badge/R-green> <img src=https://img.shields.io/badge/python-blue> <img src=https://img.shields.io/badge/shellscript-grey> 
   
 - NGS 데이터를 활용한 GWAS 분석
 - 닭과 돼지의 유전정보를 Ensembl dataset을 기반으로 DNA resequencing 분석 (GATK)
 - XP-CLR과 XP-EHH를 이용한 Selective sweep 분석
 
-Animal Breeding Data Analysis
-&nbsp; <img src=https://img.shields.io/badge/R-green>
+#### Animal Breeding Data Analysis <img src=https://img.shields.io/badge/R-green>
 - 기존의 엑셀데이터로 구성된 전라북도한우데이터를 R을 활용한 빅데이터 분석에 유리하게 데이터 포멧 변경
 - 기존의 한우유전육종데이터를 기반으로 기관에서 요청받은 한우 개체의 육종가 (도체중, 등심단면적, 등지방두께, 근내지방도)의 빅데이터 분석 및 매뉴얼 작성
 
